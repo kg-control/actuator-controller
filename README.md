@@ -13,7 +13,7 @@ You can save a little money buying singles of some items. The ESP32 is $9 and th
 
 This project assumes you have hookup wire, breadboards, and soldering equipment. If you don't, this project might not be the best fit. Also, this information is provided purely for educational purposes. There is no warranty, expressed or implied. Build at your own risk!
 
-
+![Wiring layout](actuator.png)
 
 ## License
 This project is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
