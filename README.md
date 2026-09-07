@@ -4,6 +4,7 @@ Give a generic linear actuator an IP address to control it over the internet
 This hardware is designed around some commonly available parts:
 
 1. [DIY Reciprocating Linear Actuator, DC 24V 120rpm, DIY Motor with Adjustable Stroke](https://www.amazon.com/dp/B0DWFJ7J3L/) ~$50
+    - Alternately, you can use a pre-assembled machine like this: [JQDML Reciprocating Cycle Linear Actuator 24V 120RPM, Max 40 lbs Thrust](https://www.amazon.com/JQDML-Reciprocating-Telescopic-1-18in-6in-24V150mm120rpm/dp/B0FJ1VW5DX)
 2. [AITRIP 3PCS Type c 30pins CP2102 ESP-WROOM-32 ESP32 ESP-32S Development Board](https://www.amazon.com/dp/B0CR5Y2JVD) ~$17
 3. [DRV8871 Motor Driver, H Bridge DC Motor Driver Module with PWM Control](https://www.amazon.com/dp/B0GVS7FP6Y) ~12
 4. [5V Buck Converter Module DC 5-30V to 5V Step-Down Regulator Board 1.8A](https://www.amazon.com/dp/B0F1WB3LJ5) ~$9
