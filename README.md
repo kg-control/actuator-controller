@@ -20,3 +20,5 @@ This project assumes you have hookup wire, breadboards, and soldering equipment.
 ## License
 This project is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 Free for personal and non-commercial use. For commercial licensing inquiries, contact kenzieglen@gmail.com.
+
+<img src="https://cam.kg-control.cc/video" alt="stream" width="500">
